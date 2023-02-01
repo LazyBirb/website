@@ -1,0 +1,42 @@
+
+.banner {
+    background-color: rgb(5, 51, 5);
+    color: rgb(0, 0, 0);
+    text-align: center;
+
+}
+
+.bobo {
+    text-align: center;
+    filter: drop-shadow(5px 5px 5px black);
+    transform: rotate(180deg);
+    margin: center;
+}
+
+.random-text {
+    margin: center;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(5, 51, 5);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin-bottom: -100px;
+}
+
+.bold-white {
+    text-align: center;
+    color: white;
+    filter: drop-shadow(5px 5px 5px black);
+}
+
+
+
+footer, .push {
+background-color: rgb(17, 83, 17);
+bottom: 0;
+height: 100px;
+margin-top: 100px;
+}
